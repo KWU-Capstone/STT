@@ -1,0 +1,4 @@
+set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\JHG\Desktop\speechtotext\speechtotext-387415-8c94c849fee0.json
+cd speech
+.\env\Scripts\activate
+python test.py
